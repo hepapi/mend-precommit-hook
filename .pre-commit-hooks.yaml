@@ -1,0 +1,7 @@
+- id: mend-io-sca
+  name: Mend.io SCA Scan 
+  description: Runs Mend.io SCA Scan on each commit
+  entry: hooks/mend-io-sca.sh
+  language: script
+  require_serial: true
+  always_run: true

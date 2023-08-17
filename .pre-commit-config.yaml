@@ -1,0 +1,4 @@
+repos:
+  - repo: .
+    hooks:
+    - id: mend-io-sca
