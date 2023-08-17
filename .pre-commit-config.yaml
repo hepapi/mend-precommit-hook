@@ -1,4 +1,4 @@
-repos:
-  - repo: .
-    hooks:
-    - id: mend-io-sca
+# repos:
+#   - repo: .
+#     hooks:
+#     - id: mend-io-sca
